@@ -21,7 +21,7 @@ the everything started in a simple day in november2025, the summer of that year 
 when their said: "you should have an product idea and write a proposal for that, then you should start coding and creating your idea" 
 With zero knowledge and no major, I started looking for ideas, choosing one from the gaps I saw in the educational system. It was a big hurdle for me, but I had a dream of starting a serious project and I started it.
 
-Dami = one-man Army : 
+# Dami = one-man Army : 
 With zero knowledge and no major
 I started looking for ideas
 choosing one from the gaps I saw in the educational system. It was a big hurdle for me, but I had a dream of starting a serious project and I started it. That gap was this: We don't have any chatbots that respond only based on Iranian school books
